@@ -1,1 +1,0 @@
-import{_ as t}from"./ProjectsGrid.555157ab.js";import{a as e,b as r,h as c,o as n}from"./entry.ec4e4ee8.js";import"./nuxt-link.9b36df07.js";import"./index.9597cb93.js";const s={scrollToTop:!0,data:()=>({}),computed:{}},a={class:"container mx-auto"};function _(p,i,m,d,u,f){const o=t;return n(),r("div",a,[c(o)])}const k=e(s,[["render",_]]);export{k as default};
